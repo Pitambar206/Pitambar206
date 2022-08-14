@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Pitambar206
 - 👀 I’m interested in Mathematics with Data Science.
-- 🌱 I’m currently learning Machine Learning, Python Programming 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Machine Learning, Python Programming,Data Analysis.
 - 📫 How to reach me pitambarmuduli1998@gmail.com or www.linkedin.com/in/pitambarmuduli
 
 <!---
