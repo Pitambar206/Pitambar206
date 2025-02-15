@@ -1,5 +1,6 @@
 
 👋 Hi, I’m Pitambar Muduli!
+
 📚 Passionate about Machine Learning, Natural Language Processing (NLP) and Generative AI, working on making machines understand and interact with humans seamlessly.
 🤖 Focused on optimizing LLMs, fine-tuning models, and building intelligent chatbot solutions for real-world applications.
 💻 Python is my playground—fluent in data manipulation, analysis, and model development using frameworks like TensorFlow, PyTorch, and LangChain.
